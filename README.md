@@ -37,6 +37,14 @@ Higher tunneling probability results in larger and more visible green dots.
 🔹 This repository does not include the full MetaQubit source code—only the visualization script.
 🔹 The visualization demonstrates MetaQubit’s stochastic intelligence and adaptability, reinforcing its self-referential nature.
 
+
+🎥 **Watch the full MetaQubit Simulation Video here:**  
+🔗 8  [MetaQubit Simulation (Google Drive)]()
+🔗 14  [MetaQubit Simulation (Google Drive)]()
+🔗 18  [MetaQubit Simulation (Google Drive)]()
+🔗 22  [MetaQubit Simulation (Google Drive)]()
+
+
 🔗 Stay Connected
 For more about MetaQubit and its applications, follow our latest updates! 🚀
 
