@@ -25,7 +25,7 @@ Higher tunneling probability results in larger and more visible green dots.
 📈 Entropy (blue line) – Measures system complexity.
 🔄 Coherence (purple line) – Reflects how correlated qubits are.
 ⚖ Mean Weight (yellow line) – Average state connection strength.
-🌉 Mean Tunneling (green line) – Probability of tunneling events.
+🌉 Mean Tunneling (green nodes) – Probability of tunneling events.
 👀 How to Interpret the Visualization?
 🔹 Observe the dynamic adaptation of Mean Weight and Mean Tunneling in relation to entropy—this reveals how MetaQubit continuously adjusts its internal state.
 
@@ -39,10 +39,10 @@ Higher tunneling probability results in larger and more visible green dots.
 
 
 🎥 **Watch the full MetaQubit Simulation Video here:**  
-🔗 8  [MetaQubit Simulation (Google Drive)]()
-🔗 14  [MetaQubit Simulation (Google Drive)]()
-🔗 18  [MetaQubit Simulation (Google Drive)]()
-🔗 22  [MetaQubit Simulation (Google Drive)]()
+🔗 8  [MetaQubit Simulation (Google Drive)](https://drive.google.com/file/d/1Pkv9ieCPtx8xFUtIDdG-ikd8Qfv4jAC3/view?usp=sharing)
+🔗 14  [MetaQubit Simulation (Google Drive)](https://drive.google.com/file/d/1S75f0QAK-dmKL_3_xS1WcPwAoFOGoI9d/view?usp=sharing)
+🔗 18  [MetaQubit Simulation (Google Drive)](https://drive.google.com/file/d/1XPCm41Pgkwa0mcERtAX4qjoixkWTTaGc/view?usp=sharing)
+🔗 22  [MetaQubit Simulation (Google Drive)](https://drive.google.com/file/d/15Vo8e6vW672SYFPl5C0A4eOHfVjDfeyB/view?usp=sharing)
 
 
 🔗 Stay Connected
